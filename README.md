@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+https://img.shields.io/badge/Profile%20views-4'059-blue?style=for-the-badge&logo=appveyor
 <!--
 **studsaurabh17/studsaurabh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
