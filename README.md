@@ -19,7 +19,7 @@
 <div align="center"><h1>Hi there 👋</h1></div>
 
 <div align="center">
-  <img src="[https://i.gifer.com/5eKX.gif](https://i.gifer.com/4SOY.gif)" width="600" height="300"/>
+  <img src="https://media1.giphy.com/media/FgiHOQyKUJmwg/giphy.gif?cid=790b76113dda0d8e58a8ddaa87325aef7721338241cb861d&rid=giphy.gif&ct=g" width="50%" />
   
 </div>
 
@@ -36,7 +36,6 @@
 
  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Saurabh-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-sharma-3526aa20a)
   
-  ---
   
   </div>
   
