@@ -19,7 +19,8 @@
 <div align="center"><h1>Hi there 👋</h1></div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="[https://i.gifer.com/5eKX.gif](https://i.gifer.com/4SOY.gif)" width="600" height="300"/>
+  
 </div>
 
 <div align="center"><h3>:woman_technologist: About Me :</h3></div>
@@ -61,6 +62,21 @@
 </div>
 
   </div>
+  <br><br><br>
+  
+  <div align="center">
+  
+  ---
+
+### :fire: My Stats :
+  <br><br>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=studsaurabh17&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+ 
+<br>
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=studsaurabh17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
   
 
 
