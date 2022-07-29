@@ -19,7 +19,7 @@
 <div align="center"><h1>Hi there 👋</h1></div>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/FgiHOQyKUJmwg/giphy.gif?cid=790b76113dda0d8e58a8ddaa87325aef7721338241cb861d&rid=giphy.gif&ct=g" width="50%" />
+  <img src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif" width="50%" />
   
 </div>
 
