@@ -18,25 +18,28 @@
 </div>
 <div align="center"><h1>Hi there 👋</h1></div>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif" width="50%" />
+<div><h3>:woman_technologist: About Me :</h3></div>
+<div>
+<div width="50%">
   
-</div>
-
-<div align="center"><h3>:woman_technologist: About Me :</h3></div>
-<div align="center">I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</div><br>
-
-<div align="center" width="50%">
+   <h3>
+<img src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif" width="30px"/> :zap: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. </h3>
   
- :telescope: I’m working as a Web Developer & contributing<br/>to frontend and backend for building web applications.
+<h3> <img src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif" width="30px"/> :zap: Exploring Content Writing & Designing. </h3>
 
- :seedling: Exploring Content Writing & Designing.
+<h3> <img src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif" width="30px"/> :zap: In my free time, I play Clash Of Clans. </h3>
 
- :zap: In my free time, I play Clash Of Clans.
-
- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Saurabh-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-sharma-3526aa20a)
+<h3> <img src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif" width="30px"/> :zap: How to reach me: <br><br>
   
+  [![Linkedin Badge](https://img.shields.io/badge/-Saurabh-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-sharma-3526aa20a) 
   
+  </h3>
+  
+  </div>
+  
+  <div  width="50%">
+      
+  </div>
   </div>
   
 ---
