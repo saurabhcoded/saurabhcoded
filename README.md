@@ -14,7 +14,7 @@
   </a>
 </div>
 <div id="badges" align="center">
-    <img src="https://img.shields.io/badge/Profile%20views-4'059-blue?style=for-the-badge&logo=appveyor" alt="Profile views"/>
+    <img src="https://img.shields.io/badge/Profile%20views-1'059-blue?style=for-the-badge&logo=appveyor" alt="Profile views"/>
 </div>
 <div align="center"><h1>Hi there 👋</h1></div>
 
